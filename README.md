@@ -1,0 +1,1 @@
+Data and script for the main results of the manuscript "Plasma lipoprotein(a) levels capture 90% of coronary artery disease risk from genetically high lipoprotein(a): observational and genetic evidence in one million individuals"
